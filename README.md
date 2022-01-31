@@ -1,3 +1,1 @@
-# Me in 2021
-
-<img src=https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpiedy&hide=javascript,css,scss,html&theme=tokyonight)
