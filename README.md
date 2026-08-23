@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Naveen 👋</h1>
+<h1 align="center">Hi, I'm Naveen</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6699FF&center=true&vCenter=true&width=600&lines=Senior+Backend+Python+Developer;Building+AI-powered+test+automation;Writing+at+npiedy.com;Tamil+cinema+%26+960%2B+films+tracked" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6699FF&center=true&vCenter=true&width=600&lines=Pythonista+%F0%9F%90%8D+%7C+Rustacean+%F0%9F%A6%80;Avid+reader;Movie+Buff;Single-Player+Game+Lover" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,34 +16,26 @@
   <a href="https://npiedy.com">
     <img src="https://img.shields.io/badge/Blog-npiedy.com-FF5722?style=for-the-badge&logo=rss&logoColor=white" />
   </a>
+  <a href="https://www.goodreads.com/user/show/120692883-naveen-piedy">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### GitHub Stats
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,kafka,neo4j,aws&theme=dark" />
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveenpiedy&hide=javascript,css,scss,html&theme=cobalt&layout=compact" alt="Top Langs" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenpiedy&show_icons=true&theme=cobalt&hide=contribs,issues" alt="Naveen's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpiedy&hide=javascript,css,scss,html&theme=cobalt&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-### 📝 Latest from the blog
+### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<p align="center"><i>Backend Python dev by day, film tracker and blogger by night 🎬</i></p>
+<p align="center"><i>Backend Python dev by day, film tracker and blogger by night</i></p>
