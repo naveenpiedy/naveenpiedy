@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at 5:30 UTC
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in npiedy.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.npiedy.com/rss/"
+          max_post_count: 5
