@@ -34,11 +34,11 @@
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Obsidian - Links, Bases, and a Rabbit Hole](https://www.npiedy.com/obsidian-links-bases-and-a-rabbit-hole/)
 - [Building AMY — a persistent memory layer for LLMs](https://www.npiedy.com/building-amy-a-persistent-memory-layer-for-llms/)
 - [Gamifying My Life: How I Built an AI Game Master](https://www.npiedy.com/gamifying-my-life-how-i-built-an-ai-game-master/)
 - [Building a Cricket Scraper for My Obsidian Vault feat. Google Antigravity](https://www.npiedy.com/cricket-scraper-obsidian-antigravity/)
 - [The Missing Link: How LUNE Solved My Consistency Problem](https://www.npiedy.com/building-lune/)
-- [A Lazy Saturday Upgrade: Adding RAG to CLARA](https://www.npiedy.com/adding-rag-to-clara/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
