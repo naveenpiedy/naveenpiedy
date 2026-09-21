@@ -34,11 +34,11 @@
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Jev Isn&#39;t an LLM, and That&#39;s the Point](https://www.npiedy.com/jev-isnt-an-llm-and-thats-the-point/)
 - [How I Cleared the Claude Certified Architect Exam, and What Actually Helped](https://www.npiedy.com/claude-certified-architect-exam/)
 - [Slay the Spire 2 - Video Games I Love](https://www.npiedy.com/slay-the-spire-2-video-games-i-love/)
 - [Obsidian - Links, Bases, and a Rabbit Hole](https://www.npiedy.com/obsidian-links-bases-and-a-rabbit-hole/)
 - [Building AMY — a persistent memory layer for LLMs](https://www.npiedy.com/building-amy-a-persistent-memory-layer-for-llms/)
-- [Gamifying My Life: How I Built an AI Game Master](https://www.npiedy.com/gamifying-my-life-how-i-built-an-ai-game-master/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
