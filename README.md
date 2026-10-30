@@ -34,11 +34,11 @@
 ### Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Pitchside: Cricket Analytics You Can Ask your AI About](https://www.npiedy.com/pitchside-cricket-analytics-you-can-ask-your-ai-about/)
 - [CSK 2026: The Postmortem Report](https://www.npiedy.com/csk-2026-the-postmortem-report/)
 - [Project Summer: Query Your Letterboxd Data with SQL and Claude](https://www.npiedy.com/project-summer-query-your-letterboxd-data-with-sql-and-claude/)
 - [Jev Isn&#39;t an LLM, and That&#39;s the Point](https://www.npiedy.com/jev-isnt-an-llm-and-thats-the-point/)
 - [How I Cleared the Claude Certified Architect Exam, and What Actually Helped](https://www.npiedy.com/claude-certified-architect-exam/)
-- [Slay the Spire 2 - Video Games I Love](https://www.npiedy.com/slay-the-spire-2-video-games-i-love/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
